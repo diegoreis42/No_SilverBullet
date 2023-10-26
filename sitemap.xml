@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://diegoreis42.github.io/No_SilverBullet/posts/littlehack/</loc>
+    <lastmod>2023-10-25T21:30:52-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://diegoreis42.github.io/No_SilverBullet/</loc>
+    <lastmod>2023-10-25T21:30:52-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://diegoreis42.github.io/No_SilverBullet/posts/</loc>
+    <lastmod>2023-10-25T21:30:52-03:00</lastmod>
+  </url><url>
+    <loc>https://diegoreis42.github.io/No_SilverBullet/categories/</loc>
+  </url><url>
+    <loc>https://diegoreis42.github.io/No_SilverBullet/tags/</loc>
   </url>
 </urlset>

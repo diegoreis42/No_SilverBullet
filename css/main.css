@@ -3,7 +3,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #7e7b7b;
   position: relative;
   background: #FFF;
   display: flex;
@@ -12,7 +12,7 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
+    background: rgb(116, 113, 113);
     color: white;
   }
 }
